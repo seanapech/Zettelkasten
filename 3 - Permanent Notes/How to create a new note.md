@@ -15,7 +15,7 @@ When you use this hotkey, you can simply type the name of the note you intend to
 
 Once you've created your note, press ``CTRL + Q`` to select a template. There are two templates that I have created, which are a 'Full Note' and a 'Source Note'. These note templates captures four important components of your future notes: Name of the note, status of development, tags, and references/source material.
 
-You will use the status hashtags #u-developed, #s-developed, and #f-developed, which stand for underdeveloped, somewhat-developed, and fully-developed respective. This is to remind yourself which notes need more attending to, and which ones are more fleshed-out.
+You will use the status hashtags #u-developed, #s-developed, and #f-developed, which stand for underdeveloped, somewhat-developed, and fully-developed respective. This is to remind yourself which notes need more attending to, and which ones are more fleshed-out. Additionally, #source and #permanent will be used specifically for 'source' and 'permanent' notes.
 
 Finally, the most important part of your note-taking journey will be outlined here; You must organize your notes in terms of rough notes, referential notes, and permanent notes, all with the use of **tagging**.
 
